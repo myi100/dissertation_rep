@@ -1,0 +1,14 @@
+#input file list
+raw_file_list	file list
+
+#file with a list of agent seeds
+agent_seed_file	seeds/actor_seeds.txt
+
+#file with a list of purpose/effect seeds
+purpose_effect_seed_file	seeds/purpose_seeds.txt
+
+#directory that stores learned dictionaries and other intermediate files
+output_file_path	output/
+
+#stanford parser's script file
+dependency_parsing_script_file	stanford_parser/stanford-parser-2011-06-27/lexparser.sh

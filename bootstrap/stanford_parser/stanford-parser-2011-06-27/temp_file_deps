@@ -1,0 +1,13 @@
+(ROOT
+  (SINV
+    (VP (VBD =)
+      (S
+        (VP (SYM =)
+          (NP (NNS =)))))
+    (NP (NNP =) (NNP =))))
+
+dep(=-3, =-2)
+ccomp(=-1, =-3)
+nn(=-5, =-4)
+nsubj(=-1, =-5)
+

@@ -1,0 +1,1 @@
+./lexparser.sh /uusoc/facility/res/nlp/nlp/Ruihong/gigword_eventCues/states_only_unique > /uusoc/facility/res/nlp/nlp/Ruihong/gigword_eventCues/states_only_unique_deps
